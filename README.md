@@ -1,3 +1,3 @@
 # cookies-blocker-prod
 
-https://github.com/therepo90/cookies-blocker-prod
+http://therepo90.github.io/cookies-blocker-prod
